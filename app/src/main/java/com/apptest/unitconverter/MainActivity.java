@@ -25,7 +25,7 @@ import android.widget.Toast;
             String s = editText.getText().toString();
             int kg = Integer.parseInt(s);
             double pound = 2.205 * kg;
-            textView.setText(String.format("The corresponding value in Pound is: %s", pound));
+            textView.setText(String.format("The corresponding value in Pounds is: %s", pound));
         });
     }
 }
