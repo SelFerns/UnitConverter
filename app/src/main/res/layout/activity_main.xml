@@ -11,20 +11,25 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
+        android:hint="@string/enter_here"
+        android:importantForAutofill="no"
         android:inputType="number"
+        android:minHeight="48dp"
+        android:textColorHint="#8D6E63"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.164" />
+        app:layout_constraintVertical_bias="0.164"
+        tools:ignore="LabelFor" />
 
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="60dp"
-        android:text="Calculate"
+        android:text="@string/calculate"
         android:textColorHighlight="#404040"
         android:textColorLink="#404040"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -46,7 +51,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Enter the value in Kg below"
+        android:text="@string/enter_the_value_in_kg_below"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/editText"
@@ -65,5 +70,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button"
         app:layout_constraintVertical_bias="0.632"
-        app:srcCompat="@drawable/pounds" />
+        app:srcCompat="@drawable/pounds"
+        android:contentDescription="@string/pounds_image" />
 </androidx.constraintlayout.widget.ConstraintLayout>

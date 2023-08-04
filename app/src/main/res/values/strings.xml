@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">UnitConverter</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_the_value_in_kg_below">Enter the value in Kg below</string>
+    <string name="pounds_image">Pounds Image</string>
+    <string name="answer">Answer</string>
+    <string name="enter_here">Enter Here</string>
 </resources>
