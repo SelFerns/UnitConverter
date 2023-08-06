@@ -14,5 +14,11 @@ Accuracy: The app ensures accurate conversions, making it reliable for various u
 <br>
 Lightweight: The app is designed to be lightweight and won't take up much space on your device.
 
+<h2>Screenshots</h2>
+![image](https://github.com/SelFerns/UnitConverter/assets/61825831/7b5eea08-c929-4f72-be9a-8da3a2b24a5d)
+<br>
+![image](https://github.com/SelFerns/UnitConverter/assets/61825831/78961e71-e536-4394-9605-99c4f8ff4b06)
+
+
 <h2>License</h2>
 The Kgs to Lbs Converter app is released under the MIT License.
