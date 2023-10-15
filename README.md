@@ -20,4 +20,4 @@ Lightweight: The app is designed to be lightweight and won't take up much space 
 
 
 ## License
-The Kgs to Lbs Converter app is released under the MIT [`License`](LICENSE.txt).
+The Kgs to Lbs Converter app is released under the MIT [`License`](LICENSE).
